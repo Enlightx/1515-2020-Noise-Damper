@@ -7,9 +7,6 @@ Located here http://www.prusa3d.com/prusa-i3-printable-parts/
 
 I have taken the desin and made it to work with aluminium extrsuions based printer (Mini Kossel etc etc)
 
-Currently there are 2 files one each for 1515 and 2020 size extrusions
-To note i have tested the 2020 file on 2020 VRail and it works okay.
-
 When printing these files please use the following settings in your slicer !!
 
 Infill = 0%
