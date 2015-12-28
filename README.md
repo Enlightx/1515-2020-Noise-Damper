@@ -7,10 +7,12 @@ Located here http://www.prusa3d.com/prusa-i3-printable-parts/
 
 I have taken the desin and made it to work with aluminium extrsuions based printer (Mini Kossel etc etc)
 
+Print 6 parts (2 for each extrusion, might be worth using 3 if you have a big printer)
+
 When printing these files please use the following settings in your slicer !!
 
 Infill = 0%
-Perimiters = 3 
+Perimiters = 3
 Solid Layers = 0
 Bottom Layers  = 0
 
